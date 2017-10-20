@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="facebook_app_id">1258832604223357</string>
+    <string name="fb_login_protocol_scheme">fb1258832604223357</string>
+    <string name="no_albums_were_found">No albums were found</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="password_hint">Password</string>
+    <string name="email_hint">Email</string>
+    <string name="create_account_text">Create Account</string>
+    <string name="signin_text">Signin</string>
+    <string name="account_created">Your account has been created</string>
+    <string name="invalid_credentials">Please provide valid email address and password</string>
+    <string name="albums_title">My Albums</string>
+    <string name="credentials_not_matching">Incorrect email or password</string>
+</resources>
