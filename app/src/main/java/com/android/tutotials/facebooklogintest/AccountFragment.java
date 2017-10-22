@@ -22,9 +22,7 @@ import android.widget.Toast;
 public class AccountFragment extends Fragment {
 
 
-    private static final String ACCOUNT_CREATED = "accountCreated";
-    private static final int ACCOUNT_CREATED_RES_CODE = 101;
-    private static final int USER_SIGNEDIN_RES_CODE = 102;
+    private static final String ACCOUNT_CREATED = "accountCreated"; 
     private static final String USER_SIGNED_IN = "userSignedIn";
     private OnFragmentInteractionListener mListener;
     private EditText emailText, passwordText;
